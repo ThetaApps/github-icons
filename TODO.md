@@ -1,1 +1,6 @@
-
+- [ ] add webapp icons
+- [ ] add [octicons](https://octicons.github.com/) from [`github/octicons`](https://github.com/github/octicons)
+- [ ] create missing icons
+  - [ ] html file
+  - [ ] javascript file
+  - [ ] stylesheet file
